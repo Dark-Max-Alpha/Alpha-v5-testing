@@ -1,4 +1,4 @@
-#### COMING SOON
+### COMING SOON
 
 
 ### QR CODE
